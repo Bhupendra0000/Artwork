@@ -58,4 +58,12 @@ src/
 ├── App.jsx
 ├── App.css
 └── main.jsx
+<img width="1920" height="960" alt="Screenshot 2026-02-25 111830" src="https://github.com/user-attachments/assets/522a5cdb-c241-4213-a5c4-1e0e7a67beea" />
+<img width="1920" height="961" alt="Screenshot 2026-02-25 111844" src="https://github.com/user-attachments/assets/2826d27e-2032-4a0b-8714-ee4f0a8eee8f" />
+<img width="1920" height="953" alt="Screenshot 2026-02-25 111942" src="https://github.com/user-attachments/assets/9e9c8836-0867-47a6-b7fa-f333e043f676" />
+<img width="1920" height="963" alt="Screenshot 2026-02-25 112009" src="https://github.com/user-attachments/assets/7ecadb98-41e2-4100-a65d-4a6a6f6fd538" />
+<img width="1920" height="960" alt="Screenshot 2026-02-25 112019" src="https://github.com/user-attachments/assets/417b3569-552e-4542-939e-61b7ea1d796e" />
+<img width="1920" height="961" alt="Screenshot 2026-02-25 112031" src="https://github.com/user-attachments/assets/cf8e36a0-3f08-4fc3-8b24-6cac37799d60" />
+<img width="1920" height="961" alt="Screenshot 2026-02-25 112043" src="https://github.com/user-attachments/assets/02034129-7054-43f3-a553-457780743894" />
+
   From (nikC.Ode)
