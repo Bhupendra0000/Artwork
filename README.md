@@ -53,3 +53,9 @@ Each section appears smoothly when it enters the viewport.
 ---
 
 ## 📂 Project Structure
+src/
+├── assets/
+├── App.jsx
+├── App.css
+└── main.jsx
+  From (nikC.Ode)
