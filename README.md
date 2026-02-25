@@ -1,17 +1,55 @@
-# React + Vite
+# 🎨 Scroll-Based Artwork Storytelling UI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a scroll-based storytelling web page built using **React (Vite)** and **Framer Motion**.
 
-Currently, two official plugins are available:
+It visually demonstrates the complete lifecycle of an artwork product — from showcase to installation — using smooth animations and full-screen sections.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🚀 Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React (Vite)
+- Framer Motion
+- CSS3
+- Flexbox Layout
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# Artwork
+## ✨ Features
+
+- Full-screen scroll-based sections
+- Smooth scroll reveal animations
+- Framer Motion animations
+- Hover and tap micro-interactions
+- Continuous shipping animation
+- Clean and minimal UI design
+- Local asset management
+
+---
+
+## 🧠 Concept
+
+The website represents a storytelling flow:
+
+1. 🎨 Artwork Display  
+2. 🏠 Placement Inside Room  
+3. 🛒 Buy Now Interaction  
+4. 📦 Packing Process  
+5. 🚚 Shipping Animation  
+6. 🏡 Delivery at Home  
+7. ✨ Final Installation  
+
+Each section appears smoothly when it enters the viewport.
+
+---
+
+## 🎬 Animation Approach
+
+- Used **Framer Motion variants** for reusable animation states.
+- Implemented `whileInView` for scroll-triggered animations.
+- Added `whileHover` and `whileTap` for interactive feedback.
+- Used continuous animation loop for shipping effect.
+
+---
+
+## 📂 Project Structure
